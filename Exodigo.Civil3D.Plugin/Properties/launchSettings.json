@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exodigo.Civil3D.Plugin": {
+      "commandName": "Project",
+      "commandLineArgs": "/b $(SolutionDir)$(AssemblyName)\\AutoNetLoad.scr"
+    }
+  }
+}
